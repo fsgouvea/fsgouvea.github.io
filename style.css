@@ -4,6 +4,7 @@ body {
   background-image: url(waves.jpg);
   background-repeat: repeat;
 }
+
 #wrapper {
   width: 960px;
   margin: 20px auto 20px auto;
@@ -25,6 +26,6 @@ img {
   width: 15%;
 }
 
-#subtilz {
-  color:purple;
+li {
+  color:white;
 }

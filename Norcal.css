@@ -1,0 +1,32 @@
+.jumbotron {
+  background: url("Hero_Norcal.jpg") no-repeat center center;
+  background-size: cover;
+  padding-top: 6%;
+  padding-bottom: 44%;
+  height: 500px;
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Righteous', cursive;
+}
+
+h2 {
+  color: white;
+  text-align: center;
+  font-style: italic;
+  font-family: 'Righteous', cursive;
+}
+
+h3 {
+  text-align: center;
+}
+
+#break {
+  text-align: center;
+}
+
+#blurb {
+  text-align: center;
+  font-style: italic;
+}
