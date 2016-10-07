@@ -21,7 +21,7 @@ h3 {
   text-align: center;
 }
 
-#subtitle {
+.subtitle {
   text-align: center;
-  font-weight: bolder;
+  font-weight: 600;
 }
